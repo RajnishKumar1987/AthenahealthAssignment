@@ -1,0 +1,6 @@
+framework module Pods_Rajnish_Kumar {
+  umbrella header "Pods-Rajnish-Kumar-umbrella.h"
+
+  export *
+  module * { export * }
+}
